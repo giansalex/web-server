@@ -10,4 +10,4 @@ go run main.go 127.0.0.1:8080 ./www/
 app 127.0.0.1:8080 ./www/
 ```
 
-![Server Image](https://raw.githubusercontentgithub.com/giansalex/go-http-server/docs/sample.png)
+![Server Image](https://raw.githubusercontent.com/giansalex/go-http-server/master/docs/sample.png)
